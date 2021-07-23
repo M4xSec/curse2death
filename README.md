@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/M4xSec"><img src="https://ibb.co/RpTvSfh" alt="Curse2Death"></a>
+  <a href="https://github.com/M4xSec"><img src="https://i.ibb.co/4ZRmfzs/curse2death0.png" alt="Curse2Death"></a>
   <br>
   Curse2Death
   <br>
@@ -44,11 +44,16 @@
 - Decrypter
     -  ~ Via Keys Decryption
 
-# TESTED ON FOLLOWING:👌🏻-
+# Installer TESTED ON FOLLOWING:👌🏻-
 * Kali Linux - 2020.1a (version)👍🏻
 * Parrot OS - Rolling Edition (version)
 * Ubuntu 
 * Arch Linux
+# Ransomware TESTED ON FOLLOWING:👌🏻-
+* Windows 10 (All Versions, Editions)👍🏻
+* Windows 8
+* Windows 7
+* Windows Server (2016, 2019)
 # LANGUAGE 
 * JAVA
 # Contact For Contribute & Issues 📲
