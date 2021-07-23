@@ -17,7 +17,13 @@
 - Decrypter:
 ![C2D_Decrypter](https://user-images.githubusercontent.com/57313495/126744279-d2e4cf8b-1480-4f98-894e-790e6b4efada.png)
 
-
+# PRIV8 TOOL!! TO PREVENT MISUSE ;( CONTACT US FOR PASSWORD (CLICK ON IMAGE👇👇)-
+<h1>
+<a href="https://corruptsec.net/"><img src="https://user-images.githubusercontent.com/57313495/121188698-98097080-c826-11eb-972c-119c82f8f073.png" alt="* corruptsec.net"></a>
+</h1>
+<h1>
+* predator0x300@gmail.com
+</h1>
 
 # INSTALLATION [ KALI ]🔥🔥🔥
 =========
